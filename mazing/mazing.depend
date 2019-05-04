@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556981307 source:d:\c++\mazing\main.cpp
+	<bits/stdc++.h>
+	<unistd.h>
+	<signal.h>
+
